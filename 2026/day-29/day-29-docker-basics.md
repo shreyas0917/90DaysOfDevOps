@@ -252,27 +252,3 @@ docker image prune
 ```
 
 ---
-
-# Essential Docker Commands
-
-Command Purpose
-
----
-
-`docker run` Create and start a container
-`docker ps` Show running containers
-`docker ps -a` Show all containers
-`docker stop` Stop a container
-`docker start` Start a stopped container
-`docker restart` Restart a container
-`docker rm` Remove a container
-`docker images` List images
-`docker rmi` Remove an image
-`docker exec` Run commands inside a running container
-`docker logs` View container logs
-`docker run -it` Interactive mode
-`docker run -d` Detached mode
-`-p host:container` Port mapping
-`--name` Custom container name
-
----
