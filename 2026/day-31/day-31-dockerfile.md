@@ -290,21 +290,3 @@ docker image inspect <image-name>
 ```
 
 ------------------------------------------------------------------------
-
-# Interview Questions
-
-1.  What is a Dockerfile?
-2.  Why do we use Dockerfiles?
-3.  Explain each Dockerfile instruction.
-4.  Difference between COPY and ADD?
-5.  Difference between CMD and ENTRYPOINT?
-6.  What is the build context?
-7.  What is `.dockerignore`?
-8.  Why should secrets not be copied into images?
-9.  What is Docker layer caching?
-10. Why does the order of Dockerfile instructions matter?
-11. What does `docker image history` show?
-12. How do you optimize Docker image builds?
-
-------------------------------------------------------------------------
-
